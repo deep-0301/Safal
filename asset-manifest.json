@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Safal/static/css/main.230b046a.css",
-    "main.js": "/Safal/static/js/main.23419823.js",
+    "main.js": "/Safal/static/js/main.08e51882.js",
     "static/media/vlsi.jpg": "/Safal/static/media/vlsi.e97c5a0a1d550a1ecb19.jpg",
     "static/media/embedded-solutions.jpg": "/Safal/static/media/embedded-solutions.b6f315610ac085f4f791.jpg",
     "static/media/embeded.jpg": "/Safal/static/media/embeded.dcd8522df8e96449738c.jpg",
@@ -26,10 +26,10 @@
     "index.html": "/Safal/index.html",
     "static/media/hero-bg.svg": "/Safal/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
     "main.230b046a.css.map": "/Safal/static/css/main.230b046a.css.map",
-    "main.23419823.js.map": "/Safal/static/js/main.23419823.js.map"
+    "main.08e51882.js.map": "/Safal/static/js/main.08e51882.js.map"
   },
   "entrypoints": [
     "static/css/main.230b046a.css",
-    "static/js/main.23419823.js"
+    "static/js/main.08e51882.js"
   ]
 }
