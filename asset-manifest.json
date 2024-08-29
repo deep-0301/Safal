@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Safal/static/css/main.230b046a.css",
-    "main.js": "/Safal/static/js/main.08e51882.js",
+    "main.css": "/Safal/static/css/main.8fd7a04e.css",
+    "main.js": "/Safal/static/js/main.285e443c.js",
+    "static/media/gsm.jpg": "/Safal/static/media/gsm.a8cf33e216f93929b887.jpg",
     "static/media/vlsi.jpg": "/Safal/static/media/vlsi.e97c5a0a1d550a1ecb19.jpg",
     "static/media/embedded-solutions.jpg": "/Safal/static/media/embedded-solutions.b6f315610ac085f4f791.jpg",
-    "static/media/embeded.jpg": "/Safal/static/media/embeded.dcd8522df8e96449738c.jpg",
     "static/media/pcb.jpg": "/Safal/static/media/pcb.e0025e8b467d18cc816a.jpg",
-    "static/media/gsm.jpg": "/Safal/static/media/gsm.ce42b3965b5b224a9490.jpg",
-    "static/media/undefined.jpg": "/Safal/static/media/undefined.6ffa6659f93ae208da9e.jpg",
-    "static/media/visiting.jpg": "/Safal/static/media/visiting.d59c43be1f7f0bb7de4a.jpg",
+    "static/media/embeded.jpg": "/Safal/static/media/embeded.d5aba2efb9dbd1acb0a0.jpg",
     "static/media/Indiamart.png": "/Safal/static/media/Indiamart.ec664967c888d61673a8.png",
-    "static/media/undefined (2).jpg": "/Safal/static/media/undefined (2).46e59c6f60041f9d235f.jpg",
-    "static/media/undefined (3).jpg": "/Safal/static/media/undefined (3).b6bd523832b304ccb456.jpg",
-    "static/media/undefined (1).jpg": "/Safal/static/media/undefined (1).5d60868140cfe51fcd1b.jpg",
-    "static/media/16139079-product-1568286563221-500x500.webp": "/Safal/static/media/16139079-product-1568286563221-500x500.84bec51a086b70cf8ec5.webp",
+    "static/media/002.jpg": "/Safal/static/media/002.1a8162334acb056015c2.jpg",
+    "static/media/006.jpg": "/Safal/static/media/006.6e147c83e4c679219794.jpg",
+    "static/media/008.jpg": "/Safal/static/media/008.0b6788b6da3cdfce1bc5.jpg",
+    "static/media/004.jpg": "/Safal/static/media/004.a2867741d7858c119611.jpg",
+    "static/media/007.jpg": "/Safal/static/media/007.11e68dccd3ad3ffbd45f.jpg",
+    "static/media/003.jpg": "/Safal/static/media/003.a9820c1f95eb3d367bff.jpg",
+    "static/media/005.jpg": "/Safal/static/media/005.44dfbe2a41d42c4fd2df.jpg",
+    "static/media/001.jpg": "/Safal/static/media/001.889512c8c95a3ea70889.jpg",
     "static/media/16139079-product-1568286565714-500x500.webp": "/Safal/static/media/16139079-product-1568286565714-500x500.47a98e25aeb7dc8fdc82.webp",
-    "static/media/16139079-product-1568286564763-500x500.webp": "/Safal/static/media/16139079-product-1568286564763-500x500.71e21fac0055f98d6006.webp",
     "static/media/Web-developer.svg": "/Safal/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
     "static/media/security-sensing-device-500x500.webp": "/Safal/static/media/security-sensing-device-500x500.9cf622525fbcf71da7bb.webp",
     "static/media/mobile-motor-pump-auto-switch-500x500.webp": "/Safal/static/media/mobile-motor-pump-auto-switch-500x500.010239219642fcdf6854.webp",
@@ -25,11 +26,11 @@
     "static/media/gsm-based-main-gate-lock-controller-500x500.webp": "/Safal/static/media/gsm-based-main-gate-lock-controller-500x500.8c2ef3cbc2a184fd2a1c.webp",
     "index.html": "/Safal/index.html",
     "static/media/hero-bg.svg": "/Safal/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
-    "main.230b046a.css.map": "/Safal/static/css/main.230b046a.css.map",
-    "main.08e51882.js.map": "/Safal/static/js/main.08e51882.js.map"
+    "main.8fd7a04e.css.map": "/Safal/static/css/main.8fd7a04e.css.map",
+    "main.285e443c.js.map": "/Safal/static/js/main.285e443c.js.map"
   },
   "entrypoints": [
-    "static/css/main.230b046a.css",
-    "static/js/main.08e51882.js"
+    "static/css/main.8fd7a04e.css",
+    "static/js/main.285e443c.js"
   ]
 }
